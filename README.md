@@ -1,2 +1,2 @@
 # AIprojects
-This is a game of degrees which is played by AI.
+These are various projects provided by the CS50 AI course of Harvard.
