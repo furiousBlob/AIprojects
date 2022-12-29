@@ -1,2 +1,2 @@
 # AIprojects
-This is a game of degrees which is played by AI.
+This is a game of tictactoe played by AI. It is impossible to win against AI.
